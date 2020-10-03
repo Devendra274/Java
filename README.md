@@ -1,2 +1,2 @@
 # Java
-Java Codes
+Consistes of some practice codes
