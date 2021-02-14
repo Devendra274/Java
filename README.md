@@ -1,2 +1,2 @@
 # Java
-Consists of some practice codes
+Consists of some Coding Round practice codes
