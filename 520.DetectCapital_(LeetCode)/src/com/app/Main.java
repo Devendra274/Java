@@ -8,7 +8,8 @@ public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter String:: ");
-		String word = sc.nextLine();
+		//String word = sc.nextLine();
+		String word = "HelloooAlll";
 		boolean result = checkString(word);
 		
 		if(result) System.out.println(word + "is a valid word");
